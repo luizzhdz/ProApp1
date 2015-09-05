@@ -1,0 +1,15 @@
+C:\Users\viany\Desktop\ProyectoAnimales\ProyectoAnimales\bin\Debug\ProyectoAnimales.exe
+C:\Users\viany\Desktop\ProyectoAnimales\ProyectoAnimales\bin\Debug\ProyectoAnimales.pdb
+C:\Users\viany\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.Form1.resources
+C:\Users\viany\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.Properties.Resources.resources
+C:\Users\viany\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.csproj.GenerateResource.Cache
+C:\Users\viany\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.exe
+C:\Users\viany\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.pdb
+C:\Users\LuiZz\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.exe
+C:\Users\LuiZz\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.pdb
+C:\Users\LuiZz\Desktop\ProyectoAnimales\ProyectoAnimales\bin\Debug\ProyectoAnimales.exe
+C:\Users\LuiZz\Desktop\ProyectoAnimales\ProyectoAnimales\bin\Debug\ProyectoAnimales.pdb
+C:\Users\LuiZz\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.csprojResolveAssemblyReference.cache
+C:\Users\LuiZz\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.Form1.resources
+C:\Users\LuiZz\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.Properties.Resources.resources
+C:\Users\LuiZz\Desktop\ProyectoAnimales\ProyectoAnimales\obj\x86\Debug\ProyectoAnimales.csproj.GenerateResource.Cache
